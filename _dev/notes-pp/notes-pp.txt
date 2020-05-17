@@ -1,0 +1,74 @@
+
+
+########################################################
+
+Talk with Ill Dynamics
+--------------------------------------------------------
+
+VST-Plugins:
+
+SPL Transient Designer
+SPL Attacker
+SPL Moverb
+SPL Deverb
+Schaack Audio Transient Shaper
+Native Instruments has one as well
+
+SPL Transient Designer
+SPL Attacker
+SPL Moverb
+SPL Deverb
+Schaack Audio Transient Shaper
+Native Instruments has one as well
+
+
+spl attacker, moverb and deverb is basically spl transient designer but split into three parts tho
+attacker can make the attack envelope of a sample snappier
+so if u wanna make kick or snare more punchy u use that
+spl deverb to get rid of reverb from snares or want to make a snare shorter or more direct
+it removes the tail of the sample
+or completely dries out a reverbed snare
+if ur unhappy with a snare tail this thing fixes it always
+i use it i think all the time on my beat
+and moverb is for adding tail
+but i never use that tbh if i want a snare to be a lil longer i use a short reverb
+its one of the most used plugins of mine for sure
+get Plugin Alliance all plugins bundle from torrents
+or buy them
+they have insane sales i boight 25 plugins from them now i think
+get 25 bucks voucher every month now for being loyal
+and extra diacounts
+and with insane discount i mean a plugin that is 150 i buy for 30 easy
+
+
+
+Tutorials:
+
+ghostkicks and ghostsnares for sidechaining tips:
+https://box.wickednet.nl/s/Rm0LOdjzkmK2Jn3
+
+why i sidechain basically everything:
+https://box.wickednet.nl/s/QGhC5ZIz2B84Cbq
+
+making of Ill Dynamics & MC PropaTee - Free (lots of beatmaking tips, transienr designer explanation and how i make beats and more basically love production of this tune with explanation) - - - part 1:
+https://box.wickednet.nl/s/Zh38uxxrWPlNE5X
+
+making of Ill Dynamics & MC PropaTee - Free (lots of beatmaking tips, transienr designer explanation and how i make beats and more basically love production of this tune with explanation) - - - part 2:
+https://box.wickednet.nl/s/ccEg96JfbD6AKl6
+
+making of Ill Dynamics & MC PropaTee - Free (lots of beatmaking tips, transienr designer explanation and how i make beats and more basically love production of this tune with explanation) - - - part 3:
+https://box.wickednet.nl/s/aVrOekxUjlPntpE
+
+making of Ill Dynamics & MC PropaTee - Free (lots of beatmaking tips, transienr designer explanation and how i make beats and more basically love production of this tune with explanation) - - - part 4:
+https://box.wickednet.nl/s/7agd7wFBAhfZywl
+
+
+
+########################################################
+
+Alle möglichen Notizen:
+- Custom Samples
+    - Wie in FL einbinden 
+    - Ort der Dateien
+    - Restliche Links sichern
+    - Dateien einlesen

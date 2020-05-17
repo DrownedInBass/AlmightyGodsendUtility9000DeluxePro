@@ -1,0 +1,16 @@
+
+
+- Kann man desktop.ini-Files im php-Projekt löschen oder über VS Code ausblenden?
+
+- Einrichten von XAMP / MAMP auschreiben: Das 
+
+- Feature Brainstorming im Google Drive, in der Doku abbilden
+    - Listen 80  -->  Listen 9000
+    - ServerName localhost:80 --> ServerName localhost:9000
+    - DocumentRoot "C:\xamp\htdocs"  -->  DocumentRoot "PATH_TO_DROWNED_IN_BASE_ROOT_FOLDER\Development\ApacheDocumentRoot"
+    - <Directory "C:\xamp\htdocs">  -->  <Directory "PATH_TO_DROWNED_IN_BASE_ROOT_FOLDER\Development\ApacheDocumentRoot">
+
+
+OFFTOPIC
+Ricky natworten
+Ricky mal das Set schicken 
